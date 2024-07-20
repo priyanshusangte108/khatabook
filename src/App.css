@@ -1,0 +1,109 @@
+.nav{
+  width:100% ;
+  background-color: black;
+  color: #f0f8ff;
+  display: flex;
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+img{
+  width: 80px;
+  height: 65px;
+  border-radius: 71%;
+}
+.card{
+  width: 60%;
+  background-color: #d99b0b;
+  padding: 1% 0%;
+  margin: 2% 19%;
+  border-radius: 5px;
+}
+.card input{
+  padding: 1% 0%;
+  width: 97%;
+  margin: 4px 12px;
+  border-radius: 5px;
+  border: none;
+}
+.card button{
+  width: 98%;
+  padding: 12px 4px;
+  margin: 1% 1%;
+  font-size: 110%;
+  background-color: green;
+  border: none;
+  border-radius: 5px;
+
+  color: #f0f8ff;
+}
+.card-section{
+  width: 70%;
+  display: flex;
+  margin: 2% 13%;
+  padding: 0% 3%;
+  color: #f0f8ff;
+}
+.card-1{
+  background-color: rgb(32, 112, 7);
+  margin: 0% 6%;
+  padding: 0% 6%;
+  border-radius: 5%;
+  
+}
+.card-2{
+  background-color: rgb(247, 31, 19);
+  margin: 0% 0%;
+  padding: 0% 6%;
+  border-radius: 5%;
+}
+.card-3{
+  background-color: rgb(234, 234, 15);
+  margin: 0% 6%;
+  padding: 0% 6%;
+  border-radius: 5%;
+}
+.footer-card{
+  width: 73%;
+  padding: 1% 5%;
+  margin:  -1% 9%;
+  border-radius: 5px;
+  background-color: #0bd980;
+}
+.footer-card span {
+  width: 100%;
+  position:relative;
+  right: -77%;
+  top: -25px;
+  border: none;
+}
+h4{
+  color: #0b0c0d;
+  background-color: #0bd980;
+}
+.btn-1{
+  background-color: rgb(255, 242, 0);
+  border: none;
+  margin: 0px 2px;
+  padding: 4px 14px;
+  color: #0b0c0d;
+  border-radius: 3px;
+}
+.btn-2{
+  background-color: rgb(248, 29, 13);
+  border: none;
+  margin: 0px 2px;
+  padding: 4px 14px;
+  color: #fbfdff;
+  border-radius: 3px;
+}
+.li{
+  background-color: #eabf33;
+  border: none;
+  list-style-type: none;
+}
+.li h4{
+  font-size: 21px;
+}
+.footer-heading{
+  margin: 3% 9%;
+  font-size: 25px;
+}
