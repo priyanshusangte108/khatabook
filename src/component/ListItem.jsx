@@ -11,6 +11,11 @@ const ListItem = ({transaction, removeTransaction,editTransaction}) => {
           <button className="btn-1"  onClick={() => editTransaction(transaction)}>Edit</button>
           <button className="btn-2" onClick={() => removeTransaction(transaction.id)}>Delete</button>
         </span>
+
+
+
+
+        
       </li>
     </div>
     
